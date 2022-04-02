@@ -1,0 +1,21 @@
+package characters;
+
+public class Bbuggu extends Jindo{
+
+	// »Ñ²Ù °íÀ¯ÀÇ ½ºÅ³µé
+	public void bornAttack() {
+		System.out.println("»À´Ù±Í °ø°Ý!");
+	}
+
+	public void bodyShot() {
+		System.out.println("¸öÅë ¹ÚÄ¡±â!");
+	}
+
+	public void dogUpperCut() {
+		System.out.println("¸Û¸Û ¾îÆÛÄÆ!");
+	}
+
+	public void dogSideKick() {
+		System.out.println("¸Û¸Û ¿·Â÷±â!");
+	}
+}
